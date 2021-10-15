@@ -39,8 +39,19 @@ https://github.com/soconne339/soconne338-project1/blob/main/Project_wireframe.pd
 # Validation
 
 This website has passed the following validations:
+
 W3C Validation — https://validator.w3.org/
+
 Jigsaw CSS Validation — https://jigsaw.w3.org/css-validator/
+
+![](/readme_images/Jigsaw Validator.png)
+
+![](/readme_images/Jigsaw Validator.png)
+
+
+
+
+
 
 # Issues/Bugs
 
@@ -53,7 +64,7 @@ Issue with getting index.html to link with the external stylesheet style.css.
 
 Issue with centering the container element with the body.
 
-- Was unable to center the content.  I tried many times to update the code without any luck. 
+- Was unable to center the content.  I tried many times to update the code without any luck.
 
 
 
