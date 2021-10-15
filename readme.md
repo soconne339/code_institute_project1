@@ -44,9 +44,7 @@ W3C Validation — https://validator.w3.org/
 
 Jigsaw CSS Validation — https://jigsaw.w3.org/css-validator/
 
-![](/readme_images/Jigsaw Validator.png)
 
-![](/readme_images/Jigsaw Validator.png)
 
 
 
