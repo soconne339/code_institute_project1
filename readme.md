@@ -1,3 +1,5 @@
+[View the live project here.](https://soconne339.github.io/soconne338-project1/) 
+
 ![alt text](https://github.com/soconn339/soconne338-project1/readme_images/responsive_design.png)  
 The image is from [Am I responsive?](http://ami.responsivedesign.is/)
 
