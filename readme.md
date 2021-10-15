@@ -1,3 +1,6 @@
+![alt text](https://github.com/soconn339/soconne338-project1/readme_images/responsive_design.png)  
+The image is from [Am I responsive?](http://ami.responsivedesign.is/)
+
 How To — A page about LifeHacks
 
 This project is a single-page website showing the main lifehack categories and lifehacks inside. The page features four different lifehack categories: Computer hacks, cleaning hacks, household hacks and food hacks. I’ve considered these lifehack categories as they are the main subject in our daily lives. 
@@ -10,12 +13,16 @@ I designed this page with UX in mind. The buttons for each category is designed 
 
  Information is presented in chunks as this allows the user to see the information clearly. The colours are chosen purposefully for UX. Having a high contrast in the title (white against brown) draws the users' focus. The text is semi-bold as this makes it easier to read.
 
-Credits
+Validation
 
-The majority of the lifehacks for this project are found in the book “Lifehacks” by Keith Bradford. 
+This website has passed the following validations:
+W3C Validation — https://validator.w3.org/
+Jigsaw CSS Validation — https://jigsaw.w3.org/css-validator/
 
-Youtube video — “How to Cool a Drink in 2 Minutes”, Dave Hax, ​​https://www.youtube.com/embed/H6ncuv3gewI
+Issues/Bugs
 
-My wife Carmel provided me with some of her cleaning hacks. 
+Issue with the anchor tag at the bottom of each section working correctly to bring the user back to the navigation page.  
 
-Software used for this project was Adobe Dreamweaver on Apple Macbook Air. 
+Issue with getting index.html to link with the external stylesheet style.css. 
+
+Issue with centering the container element with the body.
