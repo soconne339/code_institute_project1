@@ -12,6 +12,27 @@ The goal of this website is to provide the user with ways to improve the simple 
 I designed this page with UX in mind. The buttons for each category is designed with large text and with a large target area. The user can easily click or tap and they are brought to the relevant location on the page.
 
  Information is presented in chunks as this allows the user to see the information clearly. The colours are chosen purposefully for UX. Having a high contrast in the title (white against brown) draws the users' focus. The text is semi-bold as this makes it easier to read.
+ 
+ The ideal client for this business is:
+
+English speaking
+Someone who is in the age group of 20-30
+Someone who is looking for ways to improve their productivity and speed at which tasks are carried out.
+ 
+ Scope
+I included the following features in the website:
+
+Header containing m ainlogo and the nav bar including Computer Hacks, Cleaning Hacks, Household Hacks and Food Hacks.
+Signup form added at the bottom to allow the user to receive lifehacks via email.
+
+ 
+Skeleton
+ 
+This website is a single-page website and users can access the required information without having to wait for the page to reload. 
+
+Wireframe Mockup
+
+https://github.com/soconne339/soconne338-project1/blob/main/Project_wireframe.pdf
 
 Validation
 
