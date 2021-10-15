@@ -80,9 +80,9 @@ Thanks to my Mentor for guiding me in carrying out this project.
 
 # User Stories
 
-* 1. As a new user I was able to find the information I needed - Male Age 30
-* 2. As a new user I found the logo overpowering and the colour scheme wasn't to my taaste - Female age 38. 
-* 3. As a new user, I was able to find exactly the information I require. I would have preferred the signup form to be more visible. - Male age 72
+ 1. As a new user I was able to find the information I needed - Male Age 30
+ 2. As a new user I found the logo overpowering and the colour scheme wasn't to my taaste - Female age 38. 
+ 3. As a new user, I was able to find exactly the information I require. I would have preferred the signup form to be more visible. - Male age 72
 
 
 # Technologies Used
