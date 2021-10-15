@@ -1,0 +1,309 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body{
+
+    background-color: slategray;
+max-width: 1200px;
+			  width: 100vw;
+			  font-weight: 750;
+			  font-size: 14pt;
+              font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, "sans-serif"
+			  
+  }
+  
+  #container{
+    
+    background-color: #8C8079;
+    width: 80vw;
+	margin: 0 auto;
+
+	  padding: 5%;
+    
+    
+  }
+		
+		#container a {
+			
+			text-decoration: none;
+			color: #331D0F;
+			font-weight: 600;
+			
+		}
+	
+		#container a:hover{
+			
+			
+			cursor: pointer;
+		}
+		
+		.text-block{
+			
+			width: 60vw;
+			margin-bottom: 40px;
+			margin-top: 40px
+		}
+		
+		#top_image{
+			
+			width: 70vw;
+			margin: auto;
+
+		}		
+
+  header{
+
+    background-color: #8C8079;
+
+
+  width: 40vw;
+
+
+  }
+
+  nav{
+
+    background-color: #8C8079;
+	margin: 0 auto;
+
+	  width: 70vw;
+	  margin-bottom: 5vh;
+	
+
+  }
+  nav img{
+
+	
+      background-color: lightgoldenrodyellow;
+      color: black;
+		border-radius: 8px;
+	  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+
+
+
+
+	  text-decoration: none;
+	  
+	  
+
+  }
+        
+        @media(max-width:800px){
+            
+            nav img{
+                
+                width:100px;
+            }
+        }
+		
+	
+		a:hover{
+			
+			color: black;
+			background-color: darkorange;
+		}		
+			
+
+	
+	
+		#hack1{
+			
+			border: 2px solid black;
+		}
+		
+		#hack2{
+			
+			border: 2px solid black;
+		}
+		
+		#hack3{
+			
+			border: 2px solid black;
+		
+		}
+		
+		#hack4{
+			
+			border: 2px solid black;
+		}
+		
+		
+		
+				#hack1 > h2 {
+			
+			border: 2px solid black;
+					width:60vw;
+					background-color: #2E2003;
+					color: white;
+					padding: 10px;
+		}
+		
+		#hack2 > h2{
+			
+			border: 2px solid black;
+			width:60vw;
+					background-color: #2E2003;
+					color: white;
+					padding: 10px;
+		}
+		
+		#hack3 > h2{
+			
+			border: 2px solid black;
+			width:60vw;
+					background-color: #2E2003;
+					color: white;
+					padding: 10px;
+		
+		}
+		
+		#hack4 > h2{
+			
+			border: 2px solid black;
+			width:60vw;
+					background-color: #2E2003;
+					color: white;
+					padding: 10px;
+		}
+		
+        @media(max-width:800px){
+            
+            #hack1 > img{
+                
+                width: 100px;
+            }
+            
+        #hack2 > img{
+                
+                width: 100px;    
+        }
+            
+            #hack3 > img{
+                
+                width: 100px;
+            }
+            
+            #hack4 > img{
+                
+                width: 100px;
+                
+            }
+            
+            #hack 5 > img{
+                
+                width: 100px;
+            }
+            
+        }
+
+		
+/*		
+  {
+    border: 2px solid black;
+    background-color: white;
+    font-family: "Helvetica", serif;
+	margin-top: 5vh;
+	margin-bottom: 5vh;
+	padding: 20px;
+	  
+  } 
+		*/
+
+  #intro > h2{
+
+    background-color: blue;
+    color: white;
+    padding: 5px;
+    font-family: "Times New Roman", serif;
+    font-size: 2rem;
+  }
+
+  .lifehack > h3{
+
+
+    width: 59vw;
+  	color: white;
+	background-color: #331D0F;
+	  padding: 10px;
+	  
+	
+  }
+		
+		
+
+  .lifehack{
+
+
+    background-color: #8A6954;
+    width: 60vw;
+
+
+
+
+    padding: 10px;
+	color: black;
+	  margin-top: 5vh;
+	  margin-bottom: 5vh;
+
+
+
+  }
+		
+		.lifehack > div{
+			
+			width: 60vw;
+			text-align: justify;
+		}
+
+	
+		
+		.iframe-container{
+			
+			position: relative;
+			width: 100%;
+			padding-bottom: 56.25%; 
+			height: 0;
+			
+		}
+		
+		.iframe-container > iframe {
+			
+			position: absolute;
+			top:0;
+			left: 0;
+			width: 100%;
+			height: 100%;
+		}
+		
+		
+		.signup_container h4{
+			
+			width: 76vw;
+			padding-left: 5%;
+			padding-bottom: 5%;
+			padding-top: 5%;
+			border: 2px solid black;
+			
+			
+		}
+		
+		.signup{
+			width: 60vw;
+
+			
+		}
+		
+		.signup input{
+			
+			width: 40vw;
+			padding: 20px;
+			font-size: 13pt;
+			font-weight: 400;
+			background-color: #8A6954;
+			border: 2px solid black;
+			margin-bottom: 2em;
+		}
+		
+		 
+		
+		
