@@ -1,5 +1,7 @@
 <?php>
 
-echo("Thanks for filling out the form. This confirms your email has been captured by our system." );
 
-<php>
+$greeting = "Thanks for filling in the signup form with your details";
+
+
+echo $greeting;
