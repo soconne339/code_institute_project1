@@ -45,7 +45,41 @@ Jigsaw CSS Validation — https://jigsaw.w3.org/css-validator/
 # Issues/Bugs
 
 Issue with the anchor tag at the bottom of each section working correctly to bring the user back to the navigation page.  
+- This issue was resolved by changing the href to # to bring the user back to the top of the page. 
 
-Issue with getting index.html to link with the external stylesheet style.css. 
+Issue with getting index.html to link with the external stylesheet style.css.
+
+- This issue was resolved quite easily after deleting existing style.css and reuploading
 
 Issue with centering the container element with the body.
+
+- Was unable to center the content.  I tried many times to update the code without any luck. 
+
+
+
+# Credits
+
+The majority of the lifehacks for this project are found in the book “Lifehacks” by Keith Bradford.
+
+Other hacks came from YouTube Channel Household Hacker — (https://www.youtube.com/channel/UCI4I6ldZ0jWe7vXpUVeVcpg)
+
+Youtube video — “How to Cool a Drink in 2 Minutes”, Dave Hax, ​​https://www.youtube.com/embed/H6ncuv3gewI
+
+My wife Carmel provided me with some of her cleaning hacks.
+
+Thanks to my Mentor for guiding me in carrying out this project. 
+
+# User Stories
+
+Website was tested with Male aged 30.
+
+They were able to navigate through the categories and they found the signup form. 
+
+# Technologies Used
+
+Adobe Dreamweaver — Adobe
+Adobe Photoshop — Adobe
+Github
+13inch Macbook Pro — Apple
+
+
