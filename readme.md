@@ -87,9 +87,10 @@ Thanks to my Mentor for guiding me in carrying out this project.
 
 # Technologies Used
 
-Adobe Dreamweaver — Adobe
-Adobe Photoshop — Adobe
+Adobe Dreamweaver 
+Adobe Photoshop 
 Github
-13inch Macbook Pro — Apple
+13inch Apple Macbook Pro
+
 
 
