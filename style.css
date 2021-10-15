@@ -107,8 +107,30 @@ max-width: 1200px;
 		}		
 			
 
+	.hack{
+		border: 2px solid black;
+	}
+
+	.hack > h2{
+
+		border: 2px solid black;
+		width:60vw;
+				background-color: #2E2003;
+				color: white;
+				padding: 10px;
+
+
+	}
+
+	@media(max-width:800px){
+
+		.hack > img{
+
+			width: 100px;
+		}
+	}
 	
-	
+	/*
 		#hack1{
 			
 			border: 2px solid black;
@@ -198,7 +220,7 @@ max-width: 1200px;
             }
             
         }
-
+*/
 		
 /*		
   {
