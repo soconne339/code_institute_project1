@@ -9,7 +9,7 @@ This project is a single-page website showing the main lifehack categories and l
 
 # UX Design
  
-The goal of this website is to provide the user with ways to improve the simple tasks carried out on a daily basis. The information is presented in a simple manner whereby the user can find the category for the hack he wishes to find, he can click on it and then be brought to the information. If the user wants to explore a new area, the UI is designed to allow him to click on a button and be immediately brought to the navigation menu.
+The goal of this website is to provide the user with ways to improve the simple tasks carried out daily. The information is presented in a simple manner whereby the user can find the category for the hack he wishes to find, he can click on it and then be brought to the information. If the user wants to explore a new area, the UI is designed to allow him to click on a button and be immediately brought to the navigation menu.
 
 I designed this page with UX in mind. The buttons for each category is designed with large text and with a large target area. The user can easily click or tap and they are brought to the relevant location on the page.
 
@@ -22,10 +22,10 @@ I designed this page with UX in mind. The buttons for each category is designed 
 * Someone who is looking for ways to improve their productivity and speed at which tasks are carried out.
  
 # Scope
-I included the following features in the website:
+I included the following features on the website:
 
-#Header containing m ainlogo and the nav bar including Computer Hacks, Cleaning Hacks, Household Hacks and Food Hacks.
-Signup form added at the bottom to allow the user to receive lifehacks via email.
+#Header containing main logo and the nav bar including Computer Hacks, Cleaning Hacks, Household Hacks and Food Hacks.
+Signup form is added at the bottom to allow the user to receive lifehacks via email.
 
  
 # Skeleton
@@ -53,16 +53,16 @@ Jigsaw CSS Validation — https://jigsaw.w3.org/css-validator/
 
 # Issues/Bugs
 
-Issue with the anchor tag at the bottom of each section working correctly to bring the user back to the navigation page.  
+An issue with the anchor tag at the bottom of each section working correctly to bring the user back to the navigation page.  
 - This issue was resolved by changing the href to # to bring the user back to the top of the page. 
 
-Issue with getting index.html to link with the external stylesheet style.css.
+An issue with getting index.html to link with the external stylesheet style.css.
 
-- This issue was resolved quite easily after deleting existing style.css and reuploading
+- This issue was resolved quite easily after deleting the existing style.css and reuploading
 
-Issue with centering the container element with the body.
+An issue with centering the container element with the body.
 
-- Was unable to center the content.  I tried many times to update the code without any luck.
+- Was unable to centre the content.  I tried many times to update the code without any luck.
 
 
 
@@ -81,7 +81,7 @@ Thanks to my Mentor for guiding me in carrying out this project.
 # User Stories
 
  1. As a new user I was able to find the information I needed - Male Age 30
- 2. As a new user I found the logo overpowering and the colour scheme wasn't to my taaste - Female age 38. 
+ 2. As a new user I found the logo overpowering and the colour scheme wasn't to my taste - Female age 38. 
  3. As a new user, I was able to find exactly the information I require. I would have preferred the signup form to be more visible. - Male age 72
 
 
