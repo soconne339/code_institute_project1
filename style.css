@@ -230,9 +230,10 @@ max-width: 1200px;
 			padding: 20px;
 			font-size: 13pt;
 			font-weight: 400;
-			background-color: #8A6954;
+			background-color: darkslategrey;
 			border: 2px solid black;
 			margin-bottom: 2em;
+			color: black;
 		}
 		
 		 
