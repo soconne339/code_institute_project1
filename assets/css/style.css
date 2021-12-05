@@ -18,6 +18,7 @@ body {
   margin: 0 auto;
 
   padding: 5%;
+  overflow-x: hidden;
 }
 
 #container a {
