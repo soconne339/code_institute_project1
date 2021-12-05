@@ -1,4 +1,4 @@
-[View the live project here.](https://soconne339.github.io/soconne338-project1/) 
+s[View the live project here.](https://soconne339.github.io/soconne338-project1/) 
 
 ![](./readme_images/responsive_design.png)  
 The image is from [Am I responsive?](http://ami.responsivedesign.is/)
@@ -69,8 +69,7 @@ An issue with centering the container element with the body.
 - Was unable to centre the content.  I tried many times to update the code without any luck.
 
 An issue with trying to remove horizontal scolling on responsive view
-- I tried to solve the problem by adding a media query setting width to 100%. Still having issues. Need to research on matter further and possibly get mentor to help
-
+- I tried to solve the problem by adding a media query setting width to 100%. Issue finally respolved by adding margin:0 auto; to body tag in css. 
 
 
 # Credits
