@@ -15,6 +15,10 @@ I designed this page with UX in mind. The buttons for each category is designed 
 
  Information is presented in chunks as this allows the user to see the information clearly. The colours are chosen purposefully for UX. Having a high contrast in the title (white against brown) draws the users' focus. The text is semi-bold as this makes it easier to read.
  
+# Deployment
+
+Project was deployed to Github pages. This is done by adding a new environment inside of GitHub. ![link here](https://soconne339.github.io/soconne338-project1/)
+
 # The ideal client for this business is:
 
 * English speaking
@@ -63,6 +67,9 @@ An issue with getting index.html to link with the external stylesheet style.css.
 An issue with centering the container element with the body.
 
 - Was unable to centre the content.  I tried many times to update the code without any luck.
+
+An issue with trying to remove horizontal scolling on responsive view
+- I tried to solve the problem by adding a media query setting width to 100%. Still having issues. Need to research on matter further and possibly get mentor to help
 
 
 
