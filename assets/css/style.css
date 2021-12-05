@@ -9,6 +9,7 @@ body {
   font-size: 14pt;
   font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans",
     "DejaVu Sans", Verdana, "sans-serif";
+    overflow-x: hidden;
 }
 
 #container {
